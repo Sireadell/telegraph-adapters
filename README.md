@@ -8,7 +8,7 @@ This repository holds the adapters we submitted as an Evaluator. The files are p
 
 | Item | Detail |
 |---|---|
-| `adapters/` | 47 adapter files across 15 intents |
+| `adapters/` | 49 adapter files across 15 intents |
 | File name | `<INTENT>-<first 8 hex characters of the file hash>.safetensors` |
 | Intents covered | CODE_REVIEW, CODE_PATCH_VERIFY, CONTRACT_OBLIGATION_AUDIT, CUSTOMER_TICKET_RESOLUTION, EMAIL_SECURITY, LLM_OUTPUT_EVALUATION, OPTIMAL_EXECUTION_ROUTE, PRODUCT_AUTHENTICITY, SANCTIONS_SCREENING_MATCH, SECURITY_REVIEW, SENTIMENT_ANALYSIS, THREAT_INTELLIGENCE, VENDOR_VERIFY, WASH_TRADING_DETECTION, WEATHER_FORECAST_VERIFY |
 
